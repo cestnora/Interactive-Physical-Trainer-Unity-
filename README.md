@@ -5,9 +5,10 @@ This project focuses on the development of a "virtual physical trainer" using Un
 - a guided experience with captioned instructions
 - an indoor workout environment with decorations, furniture and background music
 - a functional menu interface for navigation and settings adjustments
+- an AI assistant chat box answering user's inquiries
 
 Some future improvements may include:
-- real-time voice guidance
+- real-time voice guidance (TTS)
 - speech recognition for user commands
 - customized muscle group targeting
 - personalized workout environments
