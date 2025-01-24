@@ -10,8 +10,8 @@ using TMPro;
 public class GeminiChatManager : MonoBehaviour
 {
     public TMP_InputField playerInputField;
-    public string apiKey = "AIzaSyCOHVB8AzJgHU7TA9uVLV0Cqo6HiNroPxE";
-    private string apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key";
+    public string apiKey = "yourAPIKey";
+    private string apiUrl = "yourAPIURL";
     public ScrollRect scrollRect;
     public RectTransform content;
     public GameObject newTextPrefab;
